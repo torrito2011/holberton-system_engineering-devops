@@ -1,0 +1,16 @@
+total 52
+drwxrwxr-x 2 vagrant vagrant 4096 Jan 31 07:23 .
+drwxrwxr-x 6 vagrant vagrant 4096 Jan 31 05:22 ..
+-rwxrw-r-- 1 vagrant vagrant   32 Jan 31 05:24 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   28 Jan 31 05:42 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant   28 Jan 31 05:59 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant   39 Jan 31 06:15 3-twofiles
+lrwxrwxrwx 1 vagrant vagrant   48 Jan 31 06:30 .#4 -> vagrant@vagrant-ubuntu-trusty-64.2405:1612070197
+-rwxrw-r-- 1 vagrant vagrant   36 Jan 31 06:38 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   36 Jan 31 06:26 4-lastlines~
+-rwxrw-r-- 1 vagrant vagrant   33 Jan 31 06:48 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   38 Jan 31 07:02 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   82 Jan 31 07:17 7-file
+-rwxrw-r-- 1 vagrant vagrant   82 Jan 31 07:07 7-file~
+-rwxrw-r-- 1 vagrant vagrant   36 Jan 31 07:23 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant    0 Jan 31 07:23 ls_cwd_content
